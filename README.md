@@ -1,16 +1,13 @@
-### Hi there 👋
+ 
+Howdy! 👋, I'm Abigail
 
-<!--
-**millerabigail266/millerabigail266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dedicated software engineering student who constantly seeks out innovative solutions to everyday problems
 
-Here are some ideas to get you started:
+🎓 I’m currently achieving skills in full stack development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I’m currently studying data structures and algorithms
+
+🤝 I’m looking to collaborate on web development projects
+
+Languages & Framework:
+angular arduino aws cplusplus css3 django docker express figma git html5 javascript kotlin kubernetes linux mocha mongodb mssql mysql nodejs postgresql python rails react redux unity unreal
