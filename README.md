@@ -1,7 +1,7 @@
  
 Hello! 👋, I'm Abigail
 
-Dedicated software engineer for innovative solutions to modern-day issues
+Forward-Thinking software engineer for innovative solutions to modern-day issues
 
 🎓 I’m currently achieving skills in full stack development
 
