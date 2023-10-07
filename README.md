@@ -1,7 +1,7 @@
  
-Howdy! 👋, I'm Abigail
+Hello! 👋, I'm Abigail
 
-Dedicated software engineering student who constantly seeks out innovative solutions to everyday problems
+Dedicated software engineer constantly seeking out innovative solutions to modern-day problems
 
 🎓 I’m currently achieving skills in full stack development
 
@@ -10,4 +10,3 @@ Dedicated software engineering student who constantly seeks out innovative solut
 🤝 I’m looking to collaborate on web development projects
 
 Languages & Framework:
-angular arduino aws cplusplus css3 django docker express figma git html5 javascript kotlin kubernetes linux mocha mongodb mssql mysql nodejs postgresql python rails react redux unity unreal
