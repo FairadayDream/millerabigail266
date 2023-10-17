@@ -1,7 +1,10 @@
- 
-Hello! 👋, I'm Abigail and you have landed on my site. 
 
-Glad we have the chance to meet! 
+Hello! 👋, I'm Abigail.
+Thrilled to make your acquaintance!
 
-I invite you to email me your requirements.
+About Me:
+
+What I Seek in an Employer:
+
+I invite you to email me your project requirements.
 
