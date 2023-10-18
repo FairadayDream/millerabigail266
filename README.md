@@ -1,5 +1,5 @@
 
-Hello! 👋, I'm Abigail.
+Hello! 👋, I'm Abigail a forward-thinking problem-solver. 
 Thrilled to make your acquaintance!
 
 EMPLOYERS: 
