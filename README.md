@@ -3,9 +3,7 @@ Hello! 👋, Thrilled to make your acquaintance!
 
 EMPLOYERS: 
 
-I am a certified salesforce developer seeking a flexible, self-directed role. 
-
-Email me your project role requirements!
+I am a certified salesforce developer. Email me your project role requirements!
 
 STUDENTS: 
 
