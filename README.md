@@ -11,4 +11,4 @@ Email me your project role requirements!
 
 STUDENTS: 
 
-STAR REPOS + HIT FOLLOW BUTTON. I RETURN ALL BUMPS ON THE DAY. Lets build together 
+STAR REPOS + HIT FOLLOW BUTTON. I RETURN ALL BUMPS ON THE DAY. Lets build together 🧱 🚧 🛠️👷🏻‍♀️
