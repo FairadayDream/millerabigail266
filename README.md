@@ -34,6 +34,3 @@ Lets build together 🧱🛠️👷🏻‍♀️
 ### Linux System Adminstration
 
 * ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-<img alt="RHCSA" src="https://i.imgur.com/W8L1HG7.png" />
-<img alt="RHCE" src="https://i.imgur.com/OLuhWjJ.png" />
