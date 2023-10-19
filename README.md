@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a certified salesforce developer. Email your project role requirements!
+I am a certified salesforce developer. Feel free to email your project role requirements!
 
 STUDENTS: 
 STAR REPOS + HIT FOLLOW BUTTON. I RETURN ALL BUMPS ON THE DAY. 
