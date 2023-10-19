@@ -1,4 +1,3 @@
-EMPLOYERS: 
 I am a certified salesforce developer. Email me your project role requirements!
 
 STUDENTS: 
