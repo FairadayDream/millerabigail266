@@ -1,10 +1,10 @@
+### Hi there 👋
 I am a certified salesforce developer. Email your project role requirements!
 
 STUDENTS: 
 STAR REPOS + HIT FOLLOW BUTTON. I RETURN ALL BUMPS ON THE DAY. 
 Lets build together 🧱🛠️👷🏻‍♀️
 
-### Hi there 👋
 
 ### Back-end
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
