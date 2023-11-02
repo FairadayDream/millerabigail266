@@ -25,5 +25,5 @@
 
 - ![Open Source Contributor](https://img.shields.io/badge/open%20source%20contributor-239120?style=for-the-badge&logo=hand&logoColor=white)
 - ![R Language](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-* ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
