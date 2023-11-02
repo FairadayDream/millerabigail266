@@ -24,6 +24,5 @@
 
 - ![Open Source Contributor](https://img.shields.io/badge/open%20source%20contributor-239120?style=for-the-badge&logo=hand&logoColor=white)
 - ![Raspberry Pi](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
