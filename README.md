@@ -1,4 +1,6 @@
-### Back-end
+
+          
+          ### Back-end
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -22,9 +24,6 @@
 ### Others
 
 - ![Open Source Contributor](https://img.shields.io/badge/open%20source%20contributor-239120?style=for-the-badge&logo=hand&logoColor=white)
-- ![R](https://img.shields.io/badge/Open%20Source%20Contributor%20in%20R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### Linux System Adminstration
-
+- ![R Language](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 * ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
